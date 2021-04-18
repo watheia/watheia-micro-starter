@@ -1,0 +1,20 @@
+{
+  "name": "watheia-micro-starter",
+  "description": "Micro Frontend Starter Projects",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "cra-starter",
+    "majestic-pine",
+    "nextjs-starter",
+    "nextjs-starter-blog"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "build": "lerna run --stream build",
+    "setup": "yarn bvm install"
+  }
+}

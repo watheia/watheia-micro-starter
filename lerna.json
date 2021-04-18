@@ -1,0 +1,4 @@
+{
+  "packages": ["cra-starter", "majestic-pine", "nextjs-starter", "nextjs-starter-blog"],
+  "version": "independent"
+}
