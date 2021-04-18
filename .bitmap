@@ -13,6 +13,12 @@
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/atoms/link"
     },
+    "layouts/top-layout": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "watheia.demo/layouts/top-layout"
+    },
     "molecules/copyright": {
         "scope": "",
         "version": "",
@@ -24,6 +30,12 @@
         "version": "",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/molecules/pro-tip"
+    },
+    "theme": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "watheia.demo/theme"
     },
     "version": "1.0.61"
 }

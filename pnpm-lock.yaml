@@ -37,6 +37,14 @@ importers:
     specifiers: {}
   watheia.demo/atoms/pro-tip:
     specifiers: {}
+  watheia.demo/layouts/top-layout:
+    specifiers: {}
+  watheia.demo/molecules/copyright:
+    specifiers: {}
+  watheia.demo/molecules/pro-tip:
+    specifiers: {}
+  watheia.demo/theme:
+    specifiers: {}
 lockfileVersion: 5.2
 packages:
   registry.npmjs.org/@babel/code-frame/7.12.11:

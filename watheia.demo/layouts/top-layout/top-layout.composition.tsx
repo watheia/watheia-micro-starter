@@ -1,6 +1,9 @@
-import React from 'react';
-import { TopLayout } from './top-layout';
+import { Typography } from '@material-ui/core'
+import React from 'react'
+import { TopLayout } from './top-layout'
 
-export const BasicTopLayout = () => (
-  <TopLayout text="hello from TopLayout" />
-);
+export const TopLayoutExample = () => (
+  <TopLayout data-test-id="top-layout">
+    <Typography>Hello, TopLayout!</Typography>
+  </TopLayout>
+)

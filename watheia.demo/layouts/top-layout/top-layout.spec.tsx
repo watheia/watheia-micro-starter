@@ -1,11 +1,11 @@
-import React from 'react';
-import { render } from '@testing-library/react';
-import { BasicTopLayout } from './top-layout.composition';
+import React from 'react'
+import { render } from '@testing-library/react'
+import { TopLayoutExample } from './top-layout.composition'
 
-describe('top-layout', () => {
+describe('layouts/top-layout', () => {
   it('should render with the correct text', () => {
-    const { getByText } = render(<BasicTopLayout />);
-    const rendered = getByText('hello from TopLayout');
-    expect(rendered).toBeTruthy();
-  });
-});
+    const { getByText } = render(<TopLayoutExample />)
+    const rendered = getByText('Hello, TopLayout!')
+    expect(rendered).toBeTruthy()
+  })
+})
