@@ -2,13 +2,13 @@
 
 {
     "atoms/light-bulb": {
-        "scope": "",
+        "scope": "watheia.demo",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/atoms/light-bulb"
     },
     "atoms/link": {
-        "scope": "",
+        "scope": "watheia.demo",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/atoms/link"
