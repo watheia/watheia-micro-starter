@@ -2,38 +2,38 @@
 
 {
     "atoms/light-bulb": {
-        "scope": "",
-        "version": "",
+        "scope": "watheia.demo",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/atoms/light-bulb"
     },
     "atoms/link": {
-        "scope": "",
-        "version": "",
+        "scope": "watheia.demo",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/atoms/link"
     },
     "layouts/top-layout": {
-        "scope": "",
-        "version": "",
+        "scope": "watheia.demo",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/layouts/top-layout"
     },
     "molecules/copyright": {
-        "scope": "",
-        "version": "",
+        "scope": "watheia.demo",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/molecules/copyright"
     },
     "molecules/pro-tip": {
-        "scope": "",
-        "version": "",
+        "scope": "watheia.demo",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/molecules/pro-tip"
     },
     "theme": {
-        "scope": "",
-        "version": "",
+        "scope": "watheia.demo",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/theme"
     },
