@@ -1,4 +1,8 @@
-import React from "react"
-import { Copyright } from "./copyright"
+import React from 'react'
+import { Copyright } from './copyright'
 
-export const BasicCopyright = () => <Copyright />
+export const BasicCopyright = () => (
+  <div data-test-id="copyright">
+    <Copyright />
+  </div>
+)

@@ -1,2 +1,1 @@
-export { ProTip } from './pro-tip';
-export type { ProTipProps } from './pro-tip';
+export { default, ProTip } from './pro-tip'

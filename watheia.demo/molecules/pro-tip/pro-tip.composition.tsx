@@ -1,6 +1,8 @@
-import React from 'react';
-import { ProTip } from './pro-tip';
+import React from 'react'
+import ProTip from './pro-tip'
 
-export const BasicProTip = () => (
-  <ProTip text="hello from ProTip" />
-);
+export const ProTipExample = () => (
+  <div data-testid="pro-tip">
+    <ProTip />
+  </div>
+)
