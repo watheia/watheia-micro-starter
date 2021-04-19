@@ -14,7 +14,7 @@
     /**
      * set the icon to be shown on the Bit server.
      **/
-    "icon": "https://cdn.watheia.org/blog/assets/icon.png",
+    "icon": "https://cdn.watheia.org/assets/icon.png",
     /**
      * default directory for all components in workspace.
      **/

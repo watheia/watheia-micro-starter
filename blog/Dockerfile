@@ -10,9 +10,8 @@ ENV NODE_ENV $NODE_ENV
 WORKDIR /app
 COPY . .
 
-ENV HOST=0.0.0.0
-ENV PORT=8080
+ENV PORT=5200
 EXPOSE ${PORT}
 
-RUN yarn install
+RUN yarn install && yarn build
 CMD [ "yarn", "start" ]
