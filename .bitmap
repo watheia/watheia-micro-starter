@@ -15,19 +15,19 @@
     },
     "layouts/top-layout": {
         "scope": "watheia.demo",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/layouts/top-layout"
     },
     "molecules/copyright": {
         "scope": "watheia.demo",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/molecules/copyright"
     },
     "molecules/pro-tip": {
         "scope": "watheia.demo",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "watheia.demo/molecules/pro-tip"
     },
