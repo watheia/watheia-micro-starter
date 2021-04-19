@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-starter-blog",
+  "name": "@watheia/micro.starter.blog",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
