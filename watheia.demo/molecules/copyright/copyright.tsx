@@ -1,16 +1,16 @@
-import React from "react"
-import Typography from "@material-ui/core/Typography"
-import MuiLink from "@material-ui/core/Link"
+import React from 'react'
+import Typography from '@material-ui/core/Typography'
+import Link from '@watheia/demo.atoms.link'
 
 export function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
-      {"Copyright © "}
-      <MuiLink color="inherit" href="https://watheialabs.com/">
+      {'Copyright © '}
+      <Link color="inherit" href="https://watheialabs.com/">
         Watheia Labs, LLC.
-      </MuiLink>{" "}
+      </Link>{' '}
       {new Date().getFullYear()}
-      {"."}
+      {'.'}
     </Typography>
   )
 }
